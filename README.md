@@ -14,15 +14,11 @@ I'm a software developer at [IBM](https://www.ibm.com/br-pt). Focused on backend
 
   [Joke reference](https://en.wikipedia.org/wiki/Saving_Private_Ryan)
 
-
-
 ## 📬 Get in Touch
 
 - GitHub: [@ryanlemes](github.com/ryanlemes)
 - LinkedIn: [@ryanlemesbezerra](www.linkedin.com/in/ryanlemesbezerra)
 - E-mail: ryanlemes@outlook.com
-
-
 
 ## 🔢 Some numbers
 
