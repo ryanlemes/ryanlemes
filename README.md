@@ -5,7 +5,7 @@
 ![C](https://img.shields.io/badge/C-Expert-green)
 ![Dart](https://img.shields.io/badge/Dart-Begginer-yellow)
 
-Software developer at [IBM](https://www.ibm.com/br-pt). Focused on backend developing and love for DevOps and embedded software. From [Minas Gerais, Brazil](https://goo.gl/maps/4tS7UBxQbJCcdEeJA) 🇧🇷
+Software developer at [IBM](https://www.ibm.com/br-pt). Focused on backend developing and love for DevOps and embedded software. From [Belo Horizonte, Brazil](https://goo.gl/maps/pq3JPwC1dCbYPooh8) 🇧🇷
 
 - 🔭 Bachelor of Computer Engineering at [PUC Minas](https://www.pucminas.br)
 - 🗓  **DevOps** enthusiast
