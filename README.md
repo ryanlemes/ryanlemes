@@ -5,11 +5,11 @@
 ![C](https://img.shields.io/badge/C-Expert-green)
 ![Dart](https://img.shields.io/badge/Dart-Begginer-yellow)
 
-Software developer at [IBM](https://www.ibm.com/br-pt). Focus on backend developing and love for DevOps and embedded software. From [Minas Gerais, Brazil](https://goo.gl/maps/4tS7UBxQbJCcdEeJA) 🇧🇷
+Software developer at [IBM](https://www.ibm.com/br-pt). Focused on backend developing and love for DevOps and embedded software. From [Minas Gerais, Brazil](https://goo.gl/maps/4tS7UBxQbJCcdEeJA) 🇧🇷
 
 - 🔭 Bachelor of Computer Engineering at [PUC Minas](https://www.pucminas.br)
 - 🗓  **DevOps** enthusiast
-- 👯 I’m looking to collaborate on **Open Source** projects
+- 👯 I’m looking to collaborate on **Open Source** projects or/and **Embedded software**
 - ⚡ Fun fact: Can call me private but I'm not a encapsulated variable. 😅
 
   [Joke reference](https://en.wikipedia.org/wiki/Saving_Private_Ryan)
