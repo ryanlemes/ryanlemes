@@ -25,4 +25,4 @@ I'm a software developer at [IBM](https://www.ibm.com/br-pt). Focused on backend
 ![Ryan Lemes github stats](https://github-readme-stats.vercel.app/api?username=ryanlemes&theme=dark)
 
 
-[![Ryan lemes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlemes&theme=dark&layout=compact)](https://github.com/ryanlemes/github-readme-stats)
+[![Ryan lemes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlemes&theme=dark&layout=compact)](https://github.com/ryanlemes)
