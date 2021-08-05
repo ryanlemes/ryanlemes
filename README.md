@@ -19,6 +19,6 @@ From [Belo Horizonte, Brazil](https://goo.gl/maps/pq3JPwC1dCbYPooh8) 🇧🇷
 
 ## 🔢 Some numbers
 
-![Ryan Lemes github stats](https://github-readme-stats.vercel.app/api?username=ryanlemes&theme=dark)
+![Ryan Lemes github stats](https://github-readme-stats.vercel.app/api?username=ryanlemes&theme=dark&count_private=true)
 
 ![Langs status](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlemes&theme=dark&layout=compact)
