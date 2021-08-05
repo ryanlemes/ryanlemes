@@ -1,11 +1,5 @@
 # Hi, I'm Ryan 👋🏽
 
-![C#](https://img.shields.io/badge/CSharp-Expert-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-green)
-![C](https://img.shields.io/badge/C-Expert-green)
-![Go](https://img.shields.io/badge/GoLang-Intermediate-yellow)
-![Dart](https://img.shields.io/badge/Dart-Begginer-yellow)
-
 I'm a developer experience engineer at [Delivery Much](https://www.deliverymuch.com.br/). Focused on backend developing and love for DevOps and embedded software. From [Belo Horizonte, Brazil](https://goo.gl/maps/pq3JPwC1dCbYPooh8) 🇧🇷
 
 - 🔭 Bachelor of Computer Engineering at [PUC Minas](https://www.pucminas.br)
