@@ -1,6 +1,8 @@
 # Hi, I'm Ryan 👋🏽
 
-I'm a developer experience engineer at [Delivery Much](https://www.deliverymuch.com.br/). Focused on backend developing and love for DevOps and embedded software. From [Belo Horizonte, Brazil](https://goo.gl/maps/pq3JPwC1dCbYPooh8) 🇧🇷
+I'm a developer experience engineer at [Delivery Much](https://www.deliverymuch.com.br/). Focused on backend developing and love for DevOps and embedded software. 
+
+From [Belo Horizonte, Brazil](https://goo.gl/maps/pq3JPwC1dCbYPooh8) 🇧🇷
 
 - 🔭 Bachelor of Computer Engineering at [PUC Minas](https://www.pucminas.br)
 - 🗓  **DevOps** enthusiast
