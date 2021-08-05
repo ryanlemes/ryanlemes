@@ -14,7 +14,7 @@ From [Belo Horizonte, Brazil](https://goo.gl/maps/pq3JPwC1dCbYPooh8) 🇧🇷
 ## 📬 Get in Touch
 
 - GitHub: [@ryanlemes](github.com/ryanlemes)
-- LinkedIn: [@ryanlemesbezerra](www.linkedin.com/in/ryanlemesbezerra)
+- LinkedIn: [@ryanlemesbezerra](linkedin.com/in/ryanlemesbezerra)
 - E-mail: ryanlemes@outlook.com
 
 ## 🔢 Some numbers
